@@ -1,4 +1,4 @@
-# Getting Started With Your ownCloud #
+# Getting Started With ownCloud #
 
 This Getting Started Guide describes a manual Linux installation. For other types of installations, see the Table of Contents on the [Download ownCloud page](https://owncloud.org/download/). This Getting Started Guide describes how to do the following.
 
@@ -70,7 +70,7 @@ Install ownCloud by performing the following steps.
 	
 	``Options +FollowSymlinks``
 	
-	``AllowOverride All``
+	`AllowOverride All``
 	
 	``<IfModule mod_dav.c>``
 	
@@ -168,7 +168,7 @@ To connect to ownCloud with a mobile device, install the [ownCloud mobile applic
 Optionally, use your browser and connect using URL or IP. For example:
 
 ``https://www.example.org/owncloud``
-``https://127.0.0.1:8080/owncloud``
+``https://127.0.0.1/owncloud``
 
 
 For detailed information on using the clients, see the [ownCloud Client User Manual](https://doc.owncloud.org/server/8.2/user_manual/files/access_webdav.html).
