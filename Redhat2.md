@@ -168,7 +168,7 @@ To connect to ownCloud with a mobile device, install the [ownCloud mobile applic
 Optionally, use your browser and connect using URL or IP. For example:
 
 ``https://www.example.org/owncloud``
-``https://127.0.0.1/owncloud``
+``https://127.0.0.1:8080/owncloud``
 
 
 For detailed information on using the clients, see the [ownCloud Client User Manual](https://doc.owncloud.org/server/8.2/user_manual/files/access_webdav.html).
