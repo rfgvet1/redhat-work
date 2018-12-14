@@ -70,7 +70,7 @@ Install ownCloud by performing the following steps.
 	
 	``Options +FollowSymlinks``
 	
-	`AllowOverride All``
+	``AllowOverride All``
 	
 	``<IfModule mod_dav.c>``
 	
