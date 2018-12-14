@@ -1,4 +1,4 @@
-# Getting Started With ownCloud #
+# Getting Started With Your ownCloud #
 
 This Getting Started Guide describes a manual Linux installation. For other types of installations, see the Table of Contents on the [Download ownCloud page](https://owncloud.org/download/). This Getting Started Guide describes how to do the following.
 
